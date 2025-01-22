@@ -1,6 +1,13 @@
-## Profile
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/88bbe285-44a5-4a8b-a82e-c730d835ab4d" />
+<h1 align="center">Hi 👋, I'm ILHAMGanz</h1>
+<img height="60" src="https://github.com/user-attachments/assets/540c6cd0-f8fe-4253-8407-184db3c81d71"/> ILHAMGanz | FROM INDONESIA 
 
+</details>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/79e1c68e-6f3c-44f2-af08-5af3570aa00e"/>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/55b66860-8cad-4df5-9695-d364ffb8772e"/>
 
 # Info
 ```bash
@@ -27,3 +34,9 @@
 [![](https://visitcount.itsvg.in/api?id=ILHAMGanzz26&icon=3&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🗣️ POV : Lu Nunjukin Skil Coding Lu Ke Temen 
+### 🫀 Gw Dengan Kesadaran Penuh 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c5b8c49c-53a5-4e42-ab6e-08f534aef9c4"/>
