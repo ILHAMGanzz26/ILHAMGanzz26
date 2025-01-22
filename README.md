@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ILHAMGanz</h1>
-<img height="60" src="https://github.com/user-attachments/assets/540c6cd0-f8fe-4253-8407-184db3c81d71"/> ILHAMGanz | FROM INDONESIA 
+<img height="60" src="https://github.com/user-attachments/assets/540c6cd0-f8fe-4253-8407-184db3c81d71"/></br> ILHAMGanz | FROM INDONESIA 
 
 </details>
 
@@ -34,9 +34,3 @@
 [![](https://visitcount.itsvg.in/api?id=ILHAMGanzz26&icon=3&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 🗣️ POV : Lu Nunjukin Skil Coding Lu Ke Temen 
-### 🫀 Gw Dengan Kesadaran Penuh 
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/c5b8c49c-53a5-4e42-ab6e-08f534aef9c4"/>
