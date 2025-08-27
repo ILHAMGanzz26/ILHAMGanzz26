@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ILHAMGanz</h1>
-<img height="60" src="https://github.com/user-attachments/assets/540c6cd0-f8fe-4253-8407-184db3c81d71"/></br> ILHAMGanz | FROM INDONESIA 
+<h1 align="center">Hi 👋, I'm ILHAM A.</h1>
+<img height="60" src="https://github.com/user-attachments/assets/540c6cd0-f8fe-4253-8407-184db3c81d71"/></br> ILHAM A. | FROM INDONESIA 
 
 </details>
 
@@ -11,13 +11,14 @@
 
 # Info
 ```bash
-(
-  {
-       "Name": "ILHAMGanz",
-       "Status": "Online",
-       "Alamat": "Pemalang, Indonesia",
-  }
-)
+{
+  "Name": "ILHAM A.",
+  "Status": "Online",
+  "Alamat": "Pemalang, Indonesia",
+  "Age": 16,
+  "Email": "ilhamadiyastaa@gmail.com",
+  "Hobi": ["Gaming", "Coding", "ngopi+ngudut"],
+}
 ```
 
 # 💻 Tech Stack:
