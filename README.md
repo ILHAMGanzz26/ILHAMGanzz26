@@ -10,7 +10,7 @@
 <img src="https://github.com/user-attachments/assets/55b66860-8cad-4df5-9695-d364ffb8772e"/>
 
 # Info
-```bash
+```json
 {
   "Name": "ILHAM A.",
   "Status": "Online",
